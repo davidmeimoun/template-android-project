@@ -1,4 +1,4 @@
-package fr.miage.paris10.projetm1.helpu;
+package fr.miage.paris10.m1.templateAndroid;
 
 import org.junit.Test;
 
