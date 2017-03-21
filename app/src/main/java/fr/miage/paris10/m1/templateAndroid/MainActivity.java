@@ -1,4 +1,4 @@
-package fr.miage.paris10.projetm1.helpu;
+package fr.miage.paris10.m1.templateAndroid;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
